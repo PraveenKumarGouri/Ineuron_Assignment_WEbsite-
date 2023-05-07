@@ -1,0 +1,40 @@
+1. In the below elements which of them are values or an expression? eg:- values can be integer or string and expressions will be mathematical operators.
+* 
+'hello'
+-87.8
+- 
+/ 
++	
+6 
+Ans:- Values : 'hello', -87.8, 6
+          Expressions:  -, /, +, *.
+
+2. What is the difference between string and variable?
+Ans:- String is a datatype , variable is assignment part 
+3. Describe three different data types.
+Ans:-  int, float, boolean
+4. What is an expression made up of? What do all expressions do?
+Ans:- Expressions are combined as a value for which it will assigned a another value 
+5. This assignment statements, like spam = 10. What is the difference between an expression and a statement?
+Ans:- Expression is formula and result of formula or a command 
+6. After running the following code, what does the variable bacon contain?
+bacon = 22
+bacon + 1
+Ans:- 23
+7. What should the values of the following two terms be?
+'spam' + 'spamspam'
+'spam' * 3
+Ans:- it is same 
+
+8. Why is eggs a valid variable name while 100 is invalid?
+Ans:- we should begin with, a string-like alphabet name then integer
+
+9. What three functions can be used to get the integer, floating-point number, or string version of a value?
+Ans:- int(), float(),str()
+
+10. Why does this expression cause an error? How can you fix it?
+'I have eaten ' + 99 + ' burritos.'
+Ans:-  'I have eaten ' + ’ 99’  + ' burritos.'
+
+
+
